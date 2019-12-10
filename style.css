@@ -3,8 +3,12 @@ a {
   text-decoration: none;
 }
 
-#content {
+div {
   background-color: ghostwhite;
+}
+
+.right {
+  text-align: right;
 }
 
 h1 {
