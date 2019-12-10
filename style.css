@@ -10,6 +10,7 @@ div {
 .right {
   text-align: right;
   font-weight: normal;
+  font-size: 14px;
 }
 
 #content {
