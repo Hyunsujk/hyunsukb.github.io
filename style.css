@@ -20,7 +20,8 @@ h1 {
   color: black;
   background-color: lavender;
   border: 2px solid thistle;
-  margin-top: 10px; 
+  margin-top: 10px;
+  margin-bottom: 0px;
   padding: 7px;
   font-weight: bold;
 }
