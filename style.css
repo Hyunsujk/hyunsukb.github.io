@@ -9,6 +9,11 @@ a {
   font-size: 14px;
 }
 
+.sideByside {
+  display: inline-block;
+  width: 49%;
+}
+
 #content {
   background-color: lavenderblush;
   padding: 0px;
